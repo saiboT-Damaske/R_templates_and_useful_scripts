@@ -1,0 +1,245 @@
+Flughafen / Land	Abkrzung
+Augsburg / Deutschland	AGB
+Berlin-Sch”nefeld / Deutschland	SXF
+Berlin-Tegel / Deutschland	TXL
+Bremen / Deutschland	BRE
+Dortmund / Deutschland	DTM
+Dresden / Deutschland	DRS
+Dsseldorf / Deutschland	DUS
+Erfurt / Deutschland	ERF
+Frankfurt / Deutschland	FRA
+Friedrichshafen / Deutschland	FDH
+Hahn (Frankfurt-Hahn) / Deutschland	HHN
+Hamburg / Deutschland	HAM
+Hannover / Deutschland	HAJ
+Karlsruhe-Baden / Deutschland	FKB
+K”ln-Bonn / Deutschland	CGN
+Leipzig-Halle / Deutschland	LEJ
+Leipzig-Altenburg / Deutschland	AOC
+Lbeck / Deutschland	LBC
+Mnchen / Deutschland	MUC
+Mnster-Osnabrck / Deutschland	FMO
+Nrnberg / Deutschland	NUE
+Paderborn / Deutschland	PAD
+Rostock-Laage / Deutschland	RLG
+Saarbrcken / Deutschland	SCN
+Stuttgart / Deutschland	STR
+Weeze / Deutschland	NRN
+Zweibrcken / Deutschland	ZQW
+Agadir / Marokko	AGA
+Banjul / Gambia	BJL
+Dakar / Senegal	DKR
+Delhi / Indien	DEL
+Djerba / Tunesien	DJE
+Hurghada / Žgypten	HRG
+Johannesburg / Sdafrika	JNB
+Kairo / Žgypten	CAI
+Kapstadt / Sdafrik	CPT
+Kilimanjaro / Tansania	JRO
+Luxor / Žgypten	LXR
+Male / Malediven	MLE
+Mah‚ / Seychellen	SEZ
+Marsa Alam / Žgypten	RMF
+Mauritius / Mauritius	MRU
+Mombasa / Kenia	MBA
+Monastir / Tunesien	MIR
+Nairobi / Kenia	NBO
+Sal / Kapverden	SID
+Sharm el Sheikh / Žgypten	SSH
+Tunis / Tunesien	TUS
+Windhuk (Windhoek) / Namibia	WDH
+Abu Dhabi / Abu Dhabi	AUH
+Bangkok / Thailand	BKK
+Colombo / Sri Lanka	CMB
+Delhi / Indien	DEL
+Dubai / Verein. Arab. Emirate	DXB
+Hanoi / Vietnam	HAN
+Ho Shi Min (Saigon) / Vietnam	SGN
+Hongkong / China	HKG
+Jakarta / Indonesien	CGK
+Koh Samui / Thailand	URT
+Kuala Lumpur / Malaysia	KUL
+Male / Malediven	MLE
+Manila / Philippinen	MNL
+Peking / China	PEK
+Phuket / Thailand	HKT
+Seoul / Sdkorea	SEL
+Shanghai / China	SHA
+Sharjah / Verein. Arab. Emirate	SHJ
+Singapur / Singapur	SIN
+Tel Aviv / Israel	TLV
+Tokio - Narita / Japan	NRT
+Acapulco / Mexiko	ACA
+Anchorage / USA	ANC
+Antigua / Antigua 	ANU
+Barbados / Barbados	BGI
+Boston / USA	BOS
+Buenos Aires / Argentinien	EZE
+Calgary / Kanada	YYC
+Cancun / Mexiko	CUN
+Cayo Coco / Kuba	CCC
+Chicago / USA	ORD
+Detroit / USA	DTW
+Fairbanks / USA	FAI
+Fort Lauderdale / USA	FLL
+Fort Myers / USA	RSW
+Grenada / Grenada	GND
+Halifax / Kanada	YHZ
+Havanna / Kuba	HAV
+Holguin / Kuba	HOG
+Las Vegas / USA	LAS
+Los Angeles / USA	LAX
+Mexico City / Mexiko	MEX
+Miami / USA	MIA
+Moncton / Kanada	YQM
+Montego Bay / Jamaica	MBJ
+New York / USA	NYC
+Orlando / USA	MCO
+Porlamar / Venezuela	PMV
+Puerto Plata / Dominikanische Rep.	POP
+Punta Cana / Dominikanische Rep.	PUJ
+Reno / USA	RNO
+Rio de Janeiro / Brasilien	GIG
+Saint Lucia / Karibik	UVF
+San Francisco / USA	SFO
+San Juan / Puerto Rico	SJU
+Santiago de Chile / Chile	SCL
+Sao Paulo / Brasilien	GRU
+Seattle / USA	SEA
+Tobago / Karibik	TAB
+Toronto / Kanada	YYZ
+Vancouver / Kanada	YVR
+Varadero / Kuba	VRA
+Washington / USA	IAD
+Whitehorse / USA	YXY
+Aukland / Neuseeland	AKL
+Melbourne / Australien	MEL
+Perth / Australien	PER
+Sydney / Australien	SYD
+Alicante / Spanien	ALC
+Almeria / Spanien	LEI
+Amsterdam / Niederlande	AMS
+Ancona / Italien	AOI
+Ankara / Trkei	ESB
+Antalya / Trkei	AYT
+Araxos / Griechenland (Peloponnes)	GPA
+Arrecife / Spanien (Lanzarote)	ACE
+Asturias (Costa Verde) / Spanien	OVD
+Athen / Griechenland	ATH
+Barcelona - City Airport / Spanien	BCN
+Bari / Italien	BRI
+Basel-Mhlhausen / Schweiz	BSL
+Bergamo bei Mailand / Italien	BGY
+Bilbao / Spanien	BIO
+Birmingham / Groábritannien	BHX
+Bodrum / Trkei	BJV
+Bologna / Italien	BLQ
+Bratislava / Slowakei	BTS
+Brindisi / Italien	BDS
+Brssel - National / Belgien	BRU
+Charleroi bei Brssel / Belgien	CRL
+Budapest / Ungarn	BUD
+Burgas / Bulgarien	BOJ
+Cagliari / Italien (Sardinien)	CAG
+Catania / Italien (Sizilien)	CTA
+Chania / Griechenland (Kreta)	CHQ
+Dalaman / Trkei	DLM
+Dublin / Irland	DUB
+Dubrovnik / Kroatien	DBV
+East Midlands / England	EMA
+Egilsstadir / Island	EGS
+Edinburgh / Schottland	EDI
+Elba / Italien	EBA
+Faro / Portugal	FAO
+Florenz / Italien	FLR
+Fuerteventura / Spanien	FUE
+Funchal / Portugal (Madeira)	FNC
+Genf / Schweiz	GVA
+Girona (Costa Brava) / Spanien	GRO
+Glasgow / Groábritannien	GLA
+Guernsey / Kanalinseln	GCI
+G”teborg / Schweden	GOT
+Gran Canaria / Spanien	LPA
+Graz / ™sterreich	GRZ
+Helsinki / Finnland	HEL
+Heraklion / Griechenland	HER
+Ibiza / Spanien	IBZ
+Innsbruck / ™sterreich	INN
+Istanbul - Atatrk / Trkei	IST
+Istanbul - Sabiha G”kcen / Trkei	SAW
+Izmir / Trkei	ADB
+Jerez de la Frontera / Spanien	XRY
+Kattowitz / Polen	KTW
+Kavalla / Griechenland	KVA
+Kiew / Ukraine	KBP
+Klagenfurt / ™sterreich	KLU
+Konstanza / Rum„nien	CND
+Kopenhagen / D„nemark	CPH
+Korfu / Griechenland	CFU
+Kos / Griechenland	KGS
+Moskau / Russland	SVO
+Lamezia Terme / Italien	SUF
+Larcana / Zypern	LCA
+Las Palmas / Spanien (Gran Canaria)	LPA
+Lesbos / Griechenland	MJT
+Linz / ™sterreich	LNZ
+Lissabon / Portugal	LIS
+London-City - Airport / England	LCY
+London - Gatwick / England	LGW
+London - Heathrow / England	LHR
+London - Luton / England	LTN
+London - Stansted / England	STN
+Luxemburg / Luxemburg	LUX
+Lyon / Frankreich	LYS
+Madrid / Spanien	MAD
+Mahon / Spanien (Menorca)	MAH
+Mailand / Italien	MIL
+Malaga / Spanien	AGP
+Malta / Malta	MLA
+Marseille / Frankreich	MRS
+Moskau - Domodedovo / Russland	DME
+Moskau - Scheremetyevo / Russland	SVO
+Moskau - Vnukovo / Russland	VKO
+Neapel / Italien	NAP
+Newcastle / England	NCL
+Nizza / Frankreich	NCE
+Olbia / Sardinien	OLB
+Oslo / Norwegen	FBU
+Palermo / Sizilien	PMO
+Palma de Mallorca / Spanien	PMI
+Paphos / Zypern	PFO
+Paris - Charles de Gaule / Frankreich	CDG
+Paris - Orly / Frankreich	ORY
+Pisa / Italien	PSA
+Porto / Portugal	OPO
+Prag / Tscheschien	PRG
+Reus bei Barcelone / Spanien	REU
+Reykjavik / Island	KEF
+Rhodos / Griechenland	RHO
+Riga / Lettland	RIX
+Rijeka / Kroatien	RJK
+Rimini / Italien	RMI
+Rom / Italien	FCO
+Salzburg / ™sterreich	SZG
+Samos / Griechenland	SMI
+Santorin / Griechenland	JTR
+Sevilla / Spanien	SVQ
+Shannon / Irland	SNN
+Sta. Cruz / Spanien (La Palma)	SPC
+St. Petersburg / Russland	LED
+Stockholm - Arlanda / Schweden	ARN
+Stockholm - Bromma / Schweden	BMA
+Skavsta bei Stockholm / Schweden	NYO
+Teneriffa - Sd / Spanien	TFS
+Teneriffa - Nord / Spanien	TFN
+Thessaloniki / Griechenland	SKG
+Toulouse / Frankreich	TLS
+Valencia / Spanien	VLC
+Venedig Marco Polo / Italien	VCE
+Treviso bei Venedig / Italien	TSF
+Warschau / Polen	WAW
+Wien / ™sterreich	VIE
+Zagreb / Kroatien	ZAG
+Zrich / Schweiz	ZRH
+Varna / Bulgarien	VAR
+Zakynthos / Griechenland	ZTH
